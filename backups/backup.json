@@ -1,0 +1,634 @@
+{
+  "name": "Cộng Đồng Người Hướng Nội",
+  "icon": "https://cdn.discordapp.com/icons/1300466255253344338/36bb0ac4900570bc6f50cf58fbb7d0c4.webp",
+  "roles": [
+    {
+      "name": "VoiceMaster",
+      "colors": 0,
+      "permissions": "8",
+      "hoist": false,
+      "mentionable": false,
+      "position": 26
+    },
+    {
+      "name": "Owner",
+      "colors": 11027200,
+      "permissions": "8",
+      "hoist": true,
+      "mentionable": false,
+      "position": 22
+    },
+    {
+      "name": "Bot",
+      "colors": 16763904,
+      "permissions": "0",
+      "hoist": false,
+      "mentionable": false,
+      "position": 23
+    },
+    {
+      "name": "Level 5 - Level 10",
+      "colors": 10918348,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 4
+    },
+    {
+      "name": "Dyno",
+      "colors": 0,
+      "permissions": "1513962695871",
+      "hoist": false,
+      "mentionable": false,
+      "position": 24
+    },
+    {
+      "name": "Discadia",
+      "colors": 0,
+      "permissions": "49",
+      "hoist": false,
+      "mentionable": false,
+      "position": 28
+    },
+    {
+      "name": "OwO",
+      "colors": 0,
+      "permissions": "1074120776",
+      "hoist": false,
+      "mentionable": false,
+      "position": 27
+    },
+    {
+      "name": "Moderator",
+      "colors": 14751768,
+      "permissions": "9230",
+      "hoist": true,
+      "mentionable": false,
+      "position": 20
+    },
+    {
+      "name": "Muted",
+      "colors": 13434879,
+      "permissions": "0",
+      "hoist": false,
+      "mentionable": false,
+      "position": 25
+    },
+    {
+      "name": "Staff",
+      "colors": 6710988,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 19
+    },
+    {
+      "name": "Admin",
+      "colors": 12920427,
+      "permissions": "16785446",
+      "hoist": true,
+      "mentionable": false,
+      "position": 21
+    },
+    {
+      "name": "Level 1 - Level 5",
+      "colors": 2791135,
+      "permissions": "0",
+      "hoist": false,
+      "mentionable": false,
+      "position": 3
+    },
+    {
+      "name": "Level 10 - Level 20",
+      "colors": 6750156,
+      "permissions": "0",
+      "hoist": false,
+      "mentionable": false,
+      "position": 5
+    },
+    {
+      "name": "Level 20 - Level 30",
+      "colors": 3407820,
+      "permissions": "0",
+      "hoist": false,
+      "mentionable": false,
+      "position": 6
+    },
+    {
+      "name": "Level 40 - Level 50",
+      "colors": 16764108,
+      "permissions": "0",
+      "hoist": false,
+      "mentionable": false,
+      "position": 8
+    },
+    {
+      "name": "Level 30 - Level 40",
+      "colors": 16777164,
+      "permissions": "0",
+      "hoist": false,
+      "mentionable": false,
+      "position": 7
+    },
+    {
+      "name": "Level Max 50",
+      "colors": 0,
+      "permissions": "0",
+      "hoist": false,
+      "mentionable": false,
+      "position": 9
+    },
+    {
+      "name": "Hướng Về Phía Em",
+      "colors": 39168,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 10
+    },
+    {
+      "name": "Hướng Về Phía Anh",
+      "colors": 3381504,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 11
+    },
+    {
+      "name": "☕ Tâm Hồn Cà Phê",
+      "colors": 16777062,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 17
+    },
+    {
+      "name": "🐱 Người Bạn Của Mèo",
+      "colors": 6750054,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 14
+    },
+    {
+      "name": "🌑 Bóng Tối Dịu Dàng",
+      "colors": 65382,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 12
+    },
+    {
+      "name": "🎧 Người Trốn Vào Âm Nhạc",
+      "colors": 13434726,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 16
+    },
+    {
+      "name": "🛋️ Linh Hồn Góc Nhỏ",
+      "colors": 10092390,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 15
+    },
+    {
+      "name": "🌙 Kẻ Lang Thang Trong Đêm",
+      "colors": 13421670,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 18
+    },
+    {
+      "name": "🌿 Kẻ Tìm Sự Bình Yên",
+      "colors": 3407718,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 13
+    },
+    {
+      "name": "Người Hướng Nội",
+      "colors": 0,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 2
+    },
+    {
+      "name": "Người Hướng nội",
+      "colors": 0,
+      "permissions": "8",
+      "hoist": false,
+      "mentionable": false,
+      "position": 1
+    }
+  ],
+  "categories": [
+    {
+      "name": "ADBOT",
+      "position": 6
+    },
+    {
+      "name": "Info",
+      "position": 1
+    },
+    {
+      "name": "📊 Server Stats",
+      "position": 0
+    },
+    {
+      "name": "Game Mini",
+      "position": 5
+    },
+    {
+      "name": "Update Mọi thứ",
+      "position": 2
+    },
+    {
+      "name": "General",
+      "position": 4
+    },
+    {
+      "name": "Ticket",
+      "position": 3
+    }
+  ],
+  "channels": [
+    {
+      "name": "horserace",
+      "type": 0,
+      "parent": "Game Mini",
+      "position": 1,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "103079395328",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "👥 Members | 13",
+      "type": 2,
+      "parent": "📊 Server Stats",
+      "position": 0,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "1048576",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "slot",
+      "type": 0,
+      "parent": "Game Mini",
+      "position": 6,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "103079395328",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "banca",
+      "type": 0,
+      "parent": "Game Mini",
+      "position": 2,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "103079395328",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "🔴 Offline | 5",
+      "type": 2,
+      "parent": "📊 Server Stats",
+      "position": 2,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "1048576",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "chào-mừng-thành-viên-mới",
+      "type": 0,
+      "parent": "Info",
+      "position": 0,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "2048",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "netflixupdate",
+      "type": 0,
+      "parent": "Update Mọi thứ",
+      "position": 2,
+      "overwrites": []
+    },
+    {
+      "name": "log-dyno",
+      "type": 0,
+      "parent": "ADBOT",
+      "position": 3,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "1024",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "tét",
+      "type": 0,
+      "parent": "ADBOT",
+      "position": 2,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "1024",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "log-ticket",
+      "type": 0,
+      "parent": "Ticket",
+      "position": 1,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "1024",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "giveaway",
+      "type": 0,
+      "parent": "Info",
+      "position": 3,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "2048",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "Join To Create",
+      "type": 2,
+      "parent": "General",
+      "position": 3,
+      "overwrites": []
+    },
+    {
+      "name": "Music",
+      "type": 2,
+      "parent": "General",
+      "position": 1,
+      "overwrites": []
+    },
+    {
+      "name": "blackjack",
+      "type": 0,
+      "parent": "Game Mini",
+      "position": 4,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "103079395328",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "cmd",
+      "type": 0,
+      "parent": "Game Mini",
+      "position": 0,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "103079264256",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "chat-chung",
+      "type": 0,
+      "parent": "General",
+      "position": 0,
+      "overwrites": []
+    },
+    {
+      "name": "dice",
+      "type": 0,
+      "parent": "Game Mini",
+      "position": 5,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "103079395328",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "pick-role",
+      "type": 0,
+      "parent": "Info",
+      "position": 2,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "2048",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "🟢 Online | 8",
+      "type": 2,
+      "parent": "📊 Server Stats",
+      "position": 1,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "1048576",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "moderator-only",
+      "type": 0,
+      "parent": "ADBOT",
+      "position": 1,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "1024",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "ticket",
+      "type": 0,
+      "parent": "Ticket",
+      "position": 0,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "2048",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "General",
+      "type": 2,
+      "parent": "General",
+      "position": 0,
+      "overwrites": []
+    },
+    {
+      "name": "rules",
+      "type": 0,
+      "parent": "Info",
+      "position": 1,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "2048",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "thời-tiết",
+      "type": 0,
+      "parent": "Update Mọi thứ",
+      "position": 0,
+      "overwrites": []
+    },
+    {
+      "name": "bot",
+      "type": 0,
+      "parent": "ADBOT",
+      "position": 0,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "1024",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "update-game",
+      "type": 0,
+      "parent": "Update Mọi thứ",
+      "position": 1,
+      "overwrites": []
+    },
+    {
+      "name": "weather",
+      "type": 0,
+      "parent": "Game Mini",
+      "position": 7,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "103079395328",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "AFK",
+      "type": 2,
+      "parent": "General",
+      "position": 2,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "2097152",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "baucua",
+      "type": 0,
+      "parent": "Game Mini",
+      "position": 3,
+      "overwrites": [
+        {
+          "id": "1300466255253344338",
+          "allow": "0",
+          "deny": "103079395328",
+          "type": 0
+        }
+      ]
+    }
+  ],
+  "emojis": [
+    {
+      "name": "Pubg_Dance",
+      "url": "https://cdn.discordapp.com/emojis/1315144861950804008.webp"
+    },
+    {
+      "name": "pubg34",
+      "url": "https://cdn.discordapp.com/emojis/1315144868065972225.webp"
+    },
+    {
+      "name": "clasher_bgmi90",
+      "url": "https://cdn.discordapp.com/emojis/1315145218017984614.webp"
+    }
+  ],
+  "stickers": []
+}
